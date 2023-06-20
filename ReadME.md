@@ -102,25 +102,25 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 ### Archivos
 En este apartado encontrarás una pequeña guia para navegar a través de los archivos del repositorio. Hemos decidido dividir los archivos por semana con el fin de lograr una disposición simple. Además, hemos creado una carpeta general, donde se encuentran los archivos referentes al total del proyecto. 
 
-**ReadME.md** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/ReadME.md) → En el archivo "ReadME.md", encontrarán toda la información pertinente al repositorio de Git Hub y como navegar correctamente a traves de el. 
+- **ReadME.md** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/ReadME.md) → En el archivo "ReadME.md", encontrarán toda la información pertinente al repositorio de Git Hub y como navegar correctamente a traves de el. 
 
-**General** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/General)  →  En la carpeta "General", encontrarán información pertinente al proyecto completo. 
-- **Consigna** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/General/Consigna%20Henry.md)  →  Es la consigna provista por Henry, contiene los links de los datasets, el contexto del proyecto, los roles que debíamos tomar, los productos que debíamos entregar, entre otra información relativa al proyecto. 
-- **Diagrama de Gantt(.mpp)** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/General/Diagrama%20de%20Gantt.mpp)  →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto. Este archivo está dispuesto en formato .mpp para una mejor visualización. 
-- **Diagrama de Gantt(.pdf)** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/General/Diagrama%20de%20Gantt.pdf)  →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto. Este archivo está dispuesto en formato .pdf, para una visualización simple y rápida. 
+- **General** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/General)  →  En la carpeta "General", encontrarán información pertinente al proyecto completo. 
+    - **Consigna** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/General/Consigna%20Henry.md)  →  Es la consigna provista por Henry, contiene los links de los datasets, el contexto del proyecto, los roles que debíamos tomar, los productos que debíamos entregar, entre otra información relativa al proyecto. 
+    - **Diagrama de Gantt(.mpp)** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/General/Diagrama%20de%20Gantt.mpp)  →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto. Este archivo está dispuesto en formato .mpp para una mejor visualización. 
+    - **Diagrama de Gantt(.pdf)** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/General/Diagrama%20de%20Gantt.pdf)  →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto. Este archivo está dispuesto en formato .pdf, para una visualización simple y rápida. 
 
-**Semana N°1** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Semana%20N°1)  →  En la carpeta "Semana N°1", encontrarán información pertinente a la primer semana del proyecto, llamada "Propuesta de proyecto". 
-- **Presentación grupal** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Semana%20N°1/Presentación1-ProyectoGrupal-Henry.pdf)  →  Es la presentación de la primera semana de trabajo. 
+- **Semana N°1** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Semana%20N°1)  →  En la carpeta "Semana N°1", encontrarán información pertinente a la primer semana del proyecto, llamada "Propuesta de proyecto". 
+    - **Presentación grupal** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Semana%20N°1/Presentación1-ProyectoGrupal-Henry.pdf)  →  Es la presentación de la primera semana de trabajo. 
 
-**Semana N°2** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Semana%20N°2)  →  En la carpeta "Semana N°2", encontrarán información pertinente a la segunda semana del proyecto, llamada "Data Engineer". 
-- **Video demo pipeline Mage** [(link)](https://drive.google.com/file/d/1x8tA5-7SWdc7k-6opdNJxZe0Cyo--i4k/view)  →  Turorial sobre el funcionamiento del pipeline en Mage, en formato video. 
-- **Presentación grupal** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Semana%20N°2/Presentacion2-ProyectoGrupal-Henry.pdf)  →  Es la presentación de la segunda semana de trabajo. 
+- **Semana N°2** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Semana%20N°2)  →  En la carpeta "Semana N°2", encontrarán información pertinente a la segunda semana del proyecto, llamada "Data Engineer". 
+    - **Video demo pipeline Mage** [(link)](https://drive.google.com/file/d/1x8tA5-7SWdc7k-6opdNJxZe0Cyo--i4k/view)  →  Turorial sobre el funcionamiento del pipeline en Mage, en formato video. 
+    - **Presentación grupal** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Semana%20N°2/Presentacion2-ProyectoGrupal-Henry.pdf)  →  Es la presentación de la segunda semana de trabajo. 
 
-**Semana N°3** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Semana%20N°3)  →  En la carpeta "Semana N°3", encontrarán información pertinente a la tercera semana del proyecto, llamada "Data Analytics-Machine Learning". 
-- **Presentación grupal** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Semana%20N°3/Presentacion3-ProyectoGrupal-Henry.pdf)  →  Es la presentación de la tercera semana de trabajo. 
+- **Semana N°3** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Semana%20N°3)  →  En la carpeta "Semana N°3", encontrarán información pertinente a la tercera semana del proyecto, llamada "Data Analytics-Machine Learning". 
+    - **Presentación grupal** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Semana%20N°3/Presentacion3-ProyectoGrupal-Henry.pdf)  →  Es la presentación de la tercera semana de trabajo. 
 
-**Semana N°4** [(link)]()  →  En la carpeta "Semana N°4", encontrarán información pertinente a la ultima semana del proyecto, llamada "Presentacion Final". 
-- **Presentación grupal** [(link)]()  →  Es la presentación final del proyecto. 
+- **Semana N°4** [(link)]()  →  En la carpeta "Semana N°4", encontrarán información pertinente a la ultima semana del proyecto, llamada "Presentacion Final". 
+    - **Presentación grupal** [(link)]()  →  Es la presentación final del proyecto. 
 
 ------------
 
