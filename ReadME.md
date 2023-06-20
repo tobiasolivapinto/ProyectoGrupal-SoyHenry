@@ -81,7 +81,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
     <img src="https://media.licdn.com/dms/image/C5603AQF-VJOmOsr87g/profile-displayphoto-shrink_800_800/0/1656429563365?e=2147483647&v=beta&t=X_QzMOCz8aISalnDZCAQWVSrOrbBeDI-1a3fGxQ5AbE" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Data Analyst</strong><br>
-        Soy Tobias, un ingeniero industrial de 25 años de Córdoba, Argentina. Mi pasión por la innovación y la exploración me ha llevado al emocionante mundo de la ciencia de datos. Como Data Analyst, combino habilidades técnicas y visión práctica para descubrir ideas transformadoras. Además, tengo experiencia en higiene y seguridad en la industria química, lo cual me brinda un sólido entendimiento de los aspectos prácticos y la importancia de mantener entornos seguros. También he tenido la oportunidad de embarcarme en un emocionante viaje a Italia para obtener mi ciudadanía europea. Este viaje me ha permitido adquirir una perspectiva internacional y una apreciación por la diversidad cultural. Estoy emocionado por utilizar mis habilidades y conocimientos para generar insights valiosos y contribuir al éxito del proyecto.
+        ¡Hola! Soy Tobias, un ingeniero industrial de 25 años de Córdoba, Argentina. Mi pasión por la innovación y la exploración me ha llevado al emocionante mundo de la ciencia de datos. Como Data Analyst, combino habilidades técnicas y visión práctica para descubrir ideas transformadoras. Además, tengo experiencia en higiene y seguridad en la industria química, lo cual me brinda un sólido entendimiento de los aspectos prácticos y la importancia de mantener entornos seguros. También he tenido la oportunidad de embarcarme en un emocionante viaje a Italia para obtener mi ciudadanía europea. Este viaje me ha permitido adquirir una perspectiva internacional y una apreciación por la diversidad cultural. Estoy emocionado por utilizar mis habilidades y conocimientos para generar insights valiosos y contribuir al éxito del proyecto.
     </p>
 </div>
 
@@ -125,10 +125,12 @@ En este apartado encontrarás una pequeña guia para navegar a través de los ar
 ------------
 
 ### Areas
+En este apartado encontrarán los diferentes subgrupos que hemos seleccionado para este proyecto con sus respectivos cometidos. Esta decisión se toma, ya que se considera fundamental la división de tareas para poder alcanzar el objetivo planteado. Recuerden que el proyecto se debe completar en poco más de tres semanas, a pesar de ser extenso y complejo, por lo que es necesario lograr una sinergia en el equipo para poder completar todas las tareas de forma correcta. Como ya aclaramos, a pesar de lo recientemente explicado, si un compañero tiene complicaciones con sus labores, otro se puede desempeñar más allá de su rol inicial y colaborar con quien lo necesite.
 
 #### Data Engineer
 
 #### Data Analytics
+¡Hola de nuevo! Somos Ricardo y Tobias, el equipo de Data Analytics. Para este proyecto contamos con dos objetivos principales relacionados entre sí. El primero, es la creación de los indicadores claves de rendimiento que contribuyen al análisis solicitado. El segundo, es la construcción de un dashboard interactivo, donde se puedan visualizar el análisis realizado de los datos proveídos. Además, deben estar incluidos los KPI´s en el. Hemos seleccionado BigQuery para hacer el análisis exploratorio de datos propio de este grupo, con el objetivo de luego disponer de los datos en forma deseada para trabajarlos en el próximo paso. En cuanto a la visualización de los datos, hemos optado por Looker Studio. Estas herramientas se han seleccionado ya que pertenecen a Google Cloud Platform, donde el grupo ha decidido llevar a cabo el proyecto. La mayor parte de nuestro trabajo lo podrán encontrar en la carpeta de la tercera semana, donde hallarán nuestro análisis exploratorio de datos, el dashboard interactivo y un informe con toda la información necesaria para navegar correctamente a través del dashboard y poder comprender nuestro análisis. 
 
 #### Machine Learning
 
