@@ -12,6 +12,7 @@
 4. [Roles](#roles)
 5. [Equipo](#equipo)
 6. [Archivos](#archivos)
+7. [Areas](#areas)
 
 ------------
 
@@ -120,3 +121,17 @@ En este apartado encontrarás una pequeña guia para navegar a través de los ar
 
 **Semana N°4** [(link)]()  →  En la carpeta "Semana N°4", encontrarán información pertinente a la ultima semana del proyecto, llamada "Presentacion Final". 
 - **Presentación grupal** [(link)]()  →  Es la presentación final del proyecto. 
+
+------------
+
+### Areas
+
+#### Data Engineer
+
+#### Data Analytics
+
+#### Machine Learning
+
+
+
+
