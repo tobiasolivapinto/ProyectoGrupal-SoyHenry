@@ -118,7 +118,7 @@ En este apartado encontrarás una pequeña guia para navegar a través de los ar
 
 - **Data Analytics** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/Data%20Analytics)  →  En la carpeta "Data Analyticsr", encontrarán información pertinente al trabajo realizado en el area de Data Analytics.
     - **EDA** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Data%20Analytics/EDA-DataAnalytics.ipynb)  →  Es el analisis exploratorio de datos propio del area de Data Analytics.
-    - **Informe** [links](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Data%20Analytics/Informe%20KPI´s%20%26%20Dashboard%20-%20Data%20Analytics%20.pdf)  →  Es el informe de los indicadores clave de rendimiento (KPI´s) y del dashboard interactivo.
+    - **Informe** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/Data%20Analytics/Informe%20KPI´s%20%26%20Dashboard%20-%20Data%20Analytics%20.pdf)  →  Es el informe de los indicadores clave de rendimiento (KPI´s) y del dashboard interactivo.
 
 - **MLOps** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/tree/main/MLOps)  →  En la carpeta "MLOps", encontrarán información pertinente al trabajo realizado en el area de MLOps.
 
