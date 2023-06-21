@@ -76,14 +76,6 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
     </p>
 </div>
 
-#### Tobias Oliva Pinto [Linkedin](https://www.linkedin.com/in/olivapintotobias/)
-<div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/C5603AQF-VJOmOsr87g/profile-displayphoto-shrink_800_800/0/1656429563365?e=2147483647&v=beta&t=X_QzMOCz8aISalnDZCAQWVSrOrbBeDI-1a3fGxQ5AbE" alt="Imagen" width="200" style="margin-right: 20px;">
-    <p>
-	    <strong>Data Analyst</strong><br>
-        ¡Hola! Soy Tobias, un ingeniero industrial de 25 años de Córdoba, Argentina. Mi pasión por la innovación y la exploración me ha llevado al emocionante mundo de la ciencia de datos. Como Data Analyst, combino habilidades técnicas y visión práctica para descubrir ideas transformadoras. Además, tengo experiencia en higiene y seguridad en la industria química, lo cual me brinda un sólido entendimiento de los aspectos prácticos y la importancia de mantener entornos seguros. También he tenido la oportunidad de embarcarme en un emocionante viaje a Italia para obtener mi ciudadanía europea. Este viaje me ha permitido adquirir una perspectiva internacional y una apreciación por la diversidad cultural. Estoy emocionado por utilizar mis habilidades y conocimientos para generar insights valiosos y contribuir al éxito del proyecto.
-    </p>
-</div>
 
 #### Joel Agustin Camatta [Linkedin](https://www.linkedin.com/in/joel-camatta-579b31176/)
 <div style="display: flex; align-items: center;">
@@ -94,6 +86,16 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
         Trabajé durante dos años para ahorrar y hacer realidad mi sueño de dedicarme al Data Science. A partir de ahi, realicé un bootcamp especializado en esta área, que me permitió adquirir habilidades en Machine Learning y Desarrollo de Software.
         Lo que realmente me apasiona es combinar estas herramientas para hacer la vida de las personas más sencilla y mejorar su accesibilidad. Me interesa especialmente cómo estas tecnologías pueden empoderar a personas con discapacidades y ayudarles a superar barreras.
         Actualmente, estoy inmerso en el fascinante mundo del Deep Learning, centrándome en LLM. Además, en un futuro próximo, tengo planes de estudiar Reinforcement Learning. 
+    </p>
+</div>
+
+
+#### Tobias Oliva Pinto [Linkedin](https://www.linkedin.com/in/olivapintotobias/)
+<div style="display: flex; align-items: center;">
+    <img src="https://media.licdn.com/dms/image/C5603AQF-VJOmOsr87g/profile-displayphoto-shrink_800_800/0/1656429563365?e=2147483647&v=beta&t=X_QzMOCz8aISalnDZCAQWVSrOrbBeDI-1a3fGxQ5AbE" alt="Imagen" width="200" style="margin-right: 20px;">
+    <p>
+	    <strong>Data Analyst</strong><br>
+        ¡Hola! Soy Tobias, un ingeniero industrial de 25 años de Córdoba, Argentina. Mi pasión por la innovación y la exploración me ha llevado al emocionante mundo de la ciencia de datos. Como Data Analyst, combino habilidades técnicas y visión práctica para descubrir ideas transformadoras. Además, tengo experiencia en higiene y seguridad en la industria química, lo cual me brinda un sólido entendimiento de los aspectos prácticos y la importancia de mantener entornos seguros. También he tenido la oportunidad de embarcarme en un emocionante viaje a Italia para obtener mi ciudadanía europea. Este viaje me ha permitido adquirir una perspectiva internacional y una apreciación por la diversidad cultural. Estoy emocionado por utilizar mis habilidades y conocimientos para generar insights valiosos y contribuir al éxito del proyecto.
     </p>
 </div>
 
