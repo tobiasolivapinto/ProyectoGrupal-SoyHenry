@@ -67,7 +67,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 </div>
 
 
-#### Ricardo Esteban Zegarra Pacheco [Linkedin](https://www.linkedin.com/in/esteban-zegarra-pacheco-691046241/)
+#### Ricardo Esteban Zegarra Pacheco [Linkedin](https://www.linkedin.com/in/ricardo-esteban-zegarra-pacheco-691046241/)
 <div style="display: flex; align-items: center;">
     <img src="https://media.licdn.com/dms/image/C4E03AQFB6H2udAN3Ww/profile-displayphoto-shrink_800_800/0/1657819597869?e=2147483647&v=beta&t=bKq_5ofU-0NnTCAd0rvHd3M-8QxVQ0QR4mLtMCU5V1s" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
