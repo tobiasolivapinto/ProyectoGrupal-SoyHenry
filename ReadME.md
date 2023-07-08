@@ -92,7 +92,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 
 #### Tobias Oliva Pinto [Linkedin](https://www.linkedin.com/in/olivapintotobias/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/C5603AQF-VJOmOsr87g/profile-displayphoto-shrink_800_800/0/1656429563365?e=2147483647&v=beta&t=X_QzMOCz8aISalnDZCAQWVSrOrbBeDI-1a3fGxQ5AbE" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHOo19d5aSn0A/profile-displayphoto-shrink_800_800/0/1687974921520?e=1694044800&v=beta&t=iOkiAK7xkoaArzy-e_BEmHQhquDcNcIfqy97K3qYwfA" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Data Analyst</strong><br>
         ¡Hola! Soy Tobias, un ingeniero industrial de 25 años de Córdoba, Argentina. Mi pasión por la innovación y la exploración me ha llevado al emocionante mundo de la ciencia de datos. Como Data Analyst, combino habilidades técnicas y visión práctica para descubrir ideas transformadoras. Además, tengo experiencia en higiene y seguridad en la industria química, lo cual me brinda un sólido entendimiento de los aspectos prácticos y la importancia de mantener entornos seguros. También he tenido la oportunidad de embarcarme en un emocionante viaje a Italia para obtener mi ciudadanía europea. Este viaje me ha permitido adquirir una perspectiva internacional y una apreciación por la diversidad cultural. Estoy emocionado por utilizar mis habilidades y conocimientos para generar insights valiosos y contribuir al éxito del proyecto.
