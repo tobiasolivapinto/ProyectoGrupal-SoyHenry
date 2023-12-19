@@ -59,7 +59,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 
 #### Dany Alfredo Tumbajulca Cruzado [Linkedin](https://www.linkedin.com/in/dany-tumbajulca-04a71556/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/C4E03AQF86bsXQxe34A/profile-displayphoto-shrink_800_800/0/1660024499477?e=1691625600&v=beta&t=8ZL52smUEw4xh2YxwftYYjlmKpTowMO0ESG-sQGEJPE" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4E35AQE3rsHbl681Ng/profile-framedphoto-shrink_800_800/0/1687836506934?e=1703599200&v=beta&t=hnymbmL8QHMnBEwW8dPC0_vYMDKPsBspvhTrOkxoD_E" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Data Engineer</strong><br>
         Dany A.Tumbajulca Cruzado me desempeño como Medico Veterinario en el area de ganaderia, con gran interes en la ciencia de datos y tecnologias afines, actualmente contribuyo como data enginner en este gran proyecto que me permitira formar parte de la gran comunidad de egresados soyhenry.
@@ -69,7 +69,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 
 #### Ricardo Esteban Zegarra Pacheco [Linkedin](https://www.linkedin.com/in/ricardo-esteban-zegarra-pacheco-691046241/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/C4E03AQFB6H2udAN3Ww/profile-displayphoto-shrink_800_800/0/1657819597869?e=2147483647&v=beta&t=bKq_5ofU-0NnTCAd0rvHd3M-8QxVQ0QR4mLtMCU5V1s" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4E35AQFFLBEZ-PSVWA/profile-framedphoto-shrink_800_800/0/1657819600517?e=1703599200&v=beta&t=aqb9bv8_EW0-ggVFsgqxIQCVX6SOgGxv4IWiWzAmve0" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
         <strong>Data Analyst</strong><br>
         Mi nombre es Ricardo Zegarra, soy profesional de Ingenieria Industrial, con estudios en proyectos y analisis de datos.  Me considero una persona comprometida con los valores de honestidad, mejora continua, respeto, confianza y justicia, y busco aplicar estos valores en todas las acciones que realizo. Mi experiencia en Marketing Digital me ha permitido desarrollar habilidades en el análisis de datos, la generación de informes y la elaboración de estrategias de comunicación efectivas. Además, mi formación en proyectos me ha proporcionado habilidades en la planificación, coordinación y seguimiento de proyectos, así como en la gestión del tiempo y los recursos.
@@ -79,7 +79,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 
 #### Joel Agustin Camatta [Linkedin](https://www.linkedin.com/in/joel-camatta-579b31176/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQEO8nLLs-RtIA/profile-displayphoto-shrink_800_800/0/1677115144274?e=2147483647&v=beta&t=H_3aEut7yomS86HznVe9cG233AV1O3E-ttfYQcwaYqU" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQGCUxpskkWg-w/profile-displayphoto-shrink_800_800/0/1687786832874?e=1708560000&v=beta&t=gcblbnMnYvMC33FqMfQeifaoZiBCewzwaZsDuG-tWXk" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Data Scientist</strong><br>
         Soy Joel, un entusiasta de la Física y el Data Science. A mis 23 años, me gradué en Física en la UBA, Argentina, y durante mi tiempo en la universidad, descubrí mi pasión por el apasionante mundo del Data Science.
@@ -92,7 +92,7 @@ Como ya se mencionó, para este proyecto debíamos formar grupos de cinco person
 
 #### Tobias Oliva Pinto [Linkedin](https://www.linkedin.com/in/olivapintotobias/)
 <div style="display: flex; align-items: center;">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D03AQHOo19d5aSn0A%2Fprofile-displayphoto-shrink_800_800%2F0%2F1687974923153%3Fe%3D2147483647%26v%3Dbeta%26t%3DwTBYxZiJW52mYErcNz0ZSMPJX5CxnKhcfHLKIiq1HTc&tbnid=5gRRQDqB5rlqfM&vet=12ahUKEwig2NG7-teCAxUygYkEHRuBDEMQMygAegQIARBJ..i&imgrefurl=https%3A%2F%2Far.linkedin.com%2Fin%2Folivapintotobias&docid=IO8c1CH3yNvUFM&w=800&h=800&q=tobias%20oliva%20pinto&client=safari&ved=2ahUKEwig2NG7-teCAxUygYkEHRuBDEMQMygAegQIARBJ" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHOo19d5aSn0A/profile-displayphoto-shrink_800_800/0/1687974923153?e=1708560000&v=beta&t=Z9kIqXMqqq6Cl3o9xifwTFNIww2k52aj9CB5dy2X0PY" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Data Analyst</strong><br>
         ¡Hola! Soy Tobias, un ingeniero industrial de 25 años de Córdoba, Argentina. Mi pasión por la innovación y la exploración me ha llevado al emocionante mundo de la ciencia de datos. Como Data Analyst, combino habilidades técnicas y visión práctica para descubrir ideas transformadoras. Además, tengo experiencia en higiene y seguridad en la industria química, lo cual me brinda un sólido entendimiento de los aspectos prácticos y la importancia de mantener entornos seguros. También he tenido la oportunidad de embarcarme en un emocionante viaje a Italia para obtener mi ciudadanía europea. Este viaje me ha permitido adquirir una perspectiva internacional y una apreciación por la diversidad cultural. Estoy emocionado por utilizar mis habilidades y conocimientos para generar insights valiosos y contribuir al éxito del proyecto.
